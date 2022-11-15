@@ -1,0 +1,18 @@
+.container {
+    position: relative;
+    visibility: hidden;
+    left: 0;
+    top: 42px;
+    padding: 10px;
+    font-size: 12px;
+    opacity: 0.5;
+}
+
+.item {
+    padding: 0 3px;
+    cursor: pointer;
+}
+
+.item:hover {
+    text-decoration: underline;
+}

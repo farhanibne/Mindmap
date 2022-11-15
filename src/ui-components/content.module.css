@@ -1,0 +1,13 @@
+.container {
+    position: absolute;
+    left: 6px;
+    top: 72px;
+    bottom: 6px;
+    right: 6px;
+    border-radius: 3px;
+    padding: 5%;
+    box-sizing: border-box;
+    overflow: hidden;
+    box-shadow: 0 3px 6px rgba(0, 0, 0, 0.16), 0 3px 6px rgba(0, 0, 0, 0.23);
+
+}
